@@ -1,0 +1,39 @@
+h1 {
+
+    color: "#604FC2";
+    text-align: center;
+    font-family: 'Impact';
+    font-size: 50px;
+
+}
+
+p {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size: 20px;
+    color:#C29A4f;
+}
+
+.titre {
+    text-align: center;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size: 40px;
+    color: #FF5733;
+}
+
+body {
+    background-image: url('../images/prog_unsplash2.avif'); 
+}
+
+a {
+    color: #FF5733;
+}
+
+.raph {
+    background-image:url('../images/photoriviere_screen1.png');
+    background-attachment: fixed;
+    text-align: center;
+    font-size:4em;
+    border-radius: 200px;
+    padding: 100px;
+    color: #C29A4f;
+}
