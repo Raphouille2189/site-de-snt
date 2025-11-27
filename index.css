@@ -26,14 +26,16 @@ body {
 
 a {
     color: #FF5733;
+    font-size: 20 px;
 }
 
 .raph {
     background-image:url('../images/photoriviere_screen1.png');
     background-attachment: fixed;
     text-align: center;
+    font-family: 'Impact', cursive, sans-serif;
     font-size:4em;
     border-radius: 200px;
     padding: 100px;
-    color: #C29A4f;
+    color: #7E78CF;
 }
