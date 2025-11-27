@@ -10,36 +10,30 @@ h1 {
 p {
     font-family: 'Comic Sans MS', cursive, sans-serif;
     font-size: 20px;
-    color:#C29A4f;
+    color:#8b6d35;
 }
 
 .titre {
     text-align: center;
     font-family: 'Comic Sans MS', cursive, sans-serif;
-    font-size: 40px;
-    color: #FF5733;
+    font-size: 100px;
+    color: #54f1dc;
 }
 
 body {
-    background-image: url('../images/prog_unsplash2.avif'); 
+    background-image: url('../images/hacker2.jpeg'); 
 }
 
 a {
     color: #FF5733;
-    font-size: 20 px;
 }
 
 .raph {
-    background-image:url('../images/photoriviere_screen1.png');
+    background-image:url('../images/tobias-reich-jycCp4KQ73M-unsplash\ -\ Copie.jpg');
     background-attachment: fixed;
     text-align: center;
-    font-family: 'Impact', cursive, sans-serif;
     font-size:4em;
     border-radius: 200px;
     padding: 100px;
-    color: #7E78CF;
-}
-
-.pargraph {
-    font-family : 'Impact', cursive, sans serif ;
+    color: #a169c2;
 }
