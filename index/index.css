@@ -30,7 +30,6 @@ p {
     color: #fcfbf9;
     max-width: 1200px;
     margin: 20px auto;
-    line-height: 1.5;
 }
 
 /* Titre principal */
@@ -63,7 +62,7 @@ a {
     font-weight: bold;
 }
 
-/* Section Raphaël */
+/* Coupage de section */
 .raph {
     background-image: url('../images/bin.jpg');
     background-attachment: fixed;
@@ -75,7 +74,6 @@ a {
     padding: 80px;
     margin: 60px auto;
     color: #a169c2;
-    max-width: 90%;
 }
 
 /* Images */
