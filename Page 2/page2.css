@@ -1,7 +1,5 @@
 /* Corps de la page */
 body {
-    margin: 0;
-    padding: 0;
     background: linear-gradient(#ed54af, #eae07f);
     font-family: 'Comic Sans MS', cursive, sans-serif;
 }
@@ -12,17 +10,6 @@ h1 {
     font-size: 100px;
     margin: 40px 0 10px 0;
     background: linear-gradient(to right, rgb(225, 221, 226), rgb(244, 121, 240));
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
-}
-
-/* Sous-titre */
-h2 {
-    text-align: center;
-    font-size: 50px;
-    margin-bottom: 50px;
-    background: linear-gradient(to left, rgb(225, 221, 226), rgb(121,121,244));
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
@@ -72,7 +59,7 @@ img {
     border-radius: 15%;
 }
 
-/* GIF principal */
+/* GIF */
 .gif {
     width: 1000px;
     max-width: 90%;
