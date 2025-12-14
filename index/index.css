@@ -1,65 +1,100 @@
-h1 {
-
-    color: "#604FC2";
-    text-align: center;
-    font-family: 'Impact';
-    font-size: 50px;
-
+/* Corps de la page */
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(#eae07f, #ed54af);
+    font-family: 'Comic Sans MS', cursive, sans-serif;
 }
 
+/* Titres principaux */
+h1 {
+    color: #604FC2;
+    text-align: center;
+    font-family: 'Impact', sans-serif;
+    font-size: 50px;
+}
+
+/* Titres de parahraphes */
+h2 {
+    color: #7f6cec;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+
+/* Paragraphes */
 p {
     text-align: center;
-    font-family: 'Comic Sans MS', cursive, sans-serif;
     font-size: 30px;
-    color:#fcfbf9;
+    color: #fcfbf9;
+    max-width: 1200px;
+    margin: 20px auto;
+    line-height: 1.5;
 }
 
+/* Titre principal */
 .titre {
     text-align: center;
-    font-family: 'Comic Sans MS', cursive, sans-serif;
     font-size: 100px;
+    margin-bottom: 10px;
     background: linear-gradient(to right, rgb(225, 221, 226), rgb(244, 121, 240));
     background-clip: text;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: transparent;
 }
 
+/* Sous-titre */
 .by {
     text-align: center;
-    font-family: 'Comic Sans MS', cursive, sans-serif;
     font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 40px;
     background: linear-gradient(to left, rgb(225, 221, 226), rgb(121,121,244));
     background-clip: text;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: transparent;
 }
 
-body {
-    background: linear-gradient(#eae07f, #ed54af);
-}
-
+/* Liens */
 a {
     color: #648fe0;
+    text-decoration: none;
+    font-weight: bold;
 }
 
+/* Section Raphaël */
 .raph {
-    background-image:url('../images/bin.jpg');
+    background-image: url('../images/bin.jpg');
     background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
     text-align: center;
-    font-size:4em;
+    font-size: 4em;
     border-radius: 200px;
-    padding: 100px;
+    padding: 80px;
+    margin: 60px auto;
     color: #a169c2;
+    max-width: 90%;
 }
 
-button {
-    background-color: aqua;
-    border-radius: 20%;
-}
-
+/* Images */
 img {
-  display: block; 
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 20%;
+    display: block;
+    margin: 30px auto;
+    border-radius: 20%;
+    max-width: 90%;
+    height: auto;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
 }
+
+
+
+
+
+
+
+
+
+
+                                                        /* par Raphaël et Mathis - 15/12/2025 */
