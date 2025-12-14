@@ -14,6 +14,17 @@ h1 {
     -webkit-background-clip: text;
     color: transparent;
 }
+/* Sous-titre */
+h2 {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 50px;
+    background: linear-gradient(to left, rgb(225, 221, 226), rgb(121,121,244));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
 
 /* Textes explicatifs */
 h4 {
